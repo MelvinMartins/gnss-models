@@ -22,7 +22,7 @@ setup(
     long_description=long_desc,
     author="Melvin Martins from NIST IT Lab",
     author_email="melvin.martins@nist.gov",
-    url="https://github.com/MelvinMartins/gnss_models",
+    url="https://github.com/MelvinMartins/gnss-models",
     packages=find_packages(),
     include_package_data=True,
     install_requires=required,
