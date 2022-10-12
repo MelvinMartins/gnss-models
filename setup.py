@@ -17,7 +17,7 @@ chdir(normpath(join(abspath(__file__), pardir)))
 
 setup(
     name="gnss_models",
-    version="0.1.3",
+    version="0.1.4",
     description="Tool to generate and evaluate mathematical models from GNSS satellites u-center csv files",
     long_description=long_desc,
     author="Melvin Martins from NIST IT Lab",
