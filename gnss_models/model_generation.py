@@ -1,7 +1,7 @@
 import numpy as np
 
-from utils import split_data, split_p_val
-from objective import cubic_polynomial
+from gnss_models.utils import split_data, split_p_val
+from gnss_models.objective import cubic_polynomial
 from scipy.optimize import curve_fit
 
 

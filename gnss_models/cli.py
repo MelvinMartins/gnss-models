@@ -1,13 +1,10 @@
 import typer
-from gnss_models import __app_name__, __version__
+from gnss_models import __app_name__, __version__, utils as utils, model_plotting as plot, model_evaluation as evaluate, model_generation as generate
 import argparse
 import utils
 import sys
 import os
-import model_generation as generate
-import model_plotting as plot
-import model_evaluation as evaluate
-from save_pdf import save
+from gnss_models.save_pdf import save
 
 app = typer.Typer()
 
