@@ -10,3 +10,4 @@ datashader~=0.13.0
 sklearn~=0.0
 scikit-learn~=0.24.2
 fpdf2==2.5.7
+typer==0.6.1
