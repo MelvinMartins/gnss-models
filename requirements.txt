@@ -9,5 +9,4 @@ scipy~=1.5.4
 datashader~=0.13.0
 sklearn~=0.0
 scikit-learn~=0.24.2
-pillow==9.2.0
 fpdf2==2.5.7
